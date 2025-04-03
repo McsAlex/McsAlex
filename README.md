@@ -1,14 +1,18 @@
-<img align="right" alt="GIF" height="150" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlta2FuMmg0dGV1dDV1ZG5kcWQ5aTlkbXhlaTZ3bTBid3h3dDZ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="GIF" height="220" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlta2FuMmg0dGV1dDV1ZG5kcWQ5aTlkbXhlaTZ3bTBid3h3dDZ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
+
+
 
 **Olá, eu sou o Alex!** 👋  
 
 ✨ **Bem-vindo ao meu perfil do GitHub!** ✨  
 
 - 🚀 **Estudando**: Análise e Desenvolvimento de Sistemas (ADS)  
-- 💼 **Trabalhando como**: Técnico de Suporte I  
+- 💼 **Trabalhando como**: Técnico de Suporte I
 
+  
 
----
+<br><br>
+
 ## 🚀 Linguagens de Programação / Tecnologias de Interesse  
 
 <p>
@@ -17,7 +21,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
----
+
 ### 🌐 Front-End  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,7 +30,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-### 🗄️ Banco de Dados / SQL  
+#### 🗄️ Banco de Dados / SQL  
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -35,6 +39,6 @@
 
 ---
 
-## 📊 Minhas Estatísticas  
+### 📊 Minhas Estatísticas  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=McsAlex&show_icons=true&theme=dark)
