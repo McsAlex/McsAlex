@@ -6,13 +6,11 @@
 - 💼 **Trabalhando como**: Técnico de Suporte I  
 ## 🚀 Linguagens de Programação / Tecnologias de Interesse  
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-<p align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlta2FuMmg0dGV1dDV1ZG5kcWQ5aTlkbXhlaTZ3bTBid3h3dDZ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="300px"/>
+<p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="margin-right: 150px;"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlta2FuMmg0dGV1dDV1ZG5kcWQ5aTlkbXhlaTZ3bTBid3h3dDZ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"/>
 </p>
 
 ### 🌐 Front-End  
